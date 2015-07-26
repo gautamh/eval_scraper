@@ -1,0 +1,5 @@
+globals.py
+course_ids.txt
+course_ids_unique.txt
+*.txt
+*.pyc
